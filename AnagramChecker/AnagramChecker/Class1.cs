@@ -73,7 +73,6 @@ namespace AnagramChecker
                     {
                         for (int i = 0; i < dictionary[key].Count; i++)
                         {
-                            Console.WriteLine(dictionary[key][i]);
                             dictionary[key][i].Replace("\n", "");
                             results.Add(dictionary[key][i]);
                         }

@@ -8,22 +8,17 @@ namespace AnagramCheckerConsole
     {
         static void Main(string[] args)
         {
-            string command = Console.ReadLine();
-            string[] input = command.Split();
-            if (input[0].Contains("AnagramChecker"))
+            if (args[0].Contains("getKnown"))
             {
-                if (input[1].Contains("getKnown") && input.Length==3)
+                List<string> list = AnagramChecker.Class1.FindAnagram(args[1]);
+                foreach (string word in list)
                 {
-                    List<string> list=AnagramChecker.Class1.FindAnagram(input[2]);
-                    foreach(string word in list)
-                    {
-                        Console.WriteLine(word);
-                    }
+                    Console.WriteLine(word);
                 }
-                if (input[1].Contains("check") && input.Length == 4 && AnagramChecker.Class1.CheckAnagram(input[2], input[3]))
-                {
-                    Console.WriteLine("Is an Anagram");   
-                }
+            }
+            if (args[0].Contains("check") && AnagramChecker.Class1.CheckAnagram(args[1], args[2]))
+            {
+                Console.WriteLine("Is an Anagram");
             }
         }
     }
