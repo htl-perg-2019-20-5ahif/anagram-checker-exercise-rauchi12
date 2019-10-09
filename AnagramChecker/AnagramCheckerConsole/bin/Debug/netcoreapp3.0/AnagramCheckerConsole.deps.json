@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AnagramCheckerConsole/1.0.0": {
+        "dependencies": {
+          "AnagramChecker": "1.0.0"
+        },
+        "runtime": {
+          "AnagramCheckerConsole.dll": {}
+        }
+      },
+      "AnagramChecker/1.0.0": {
+        "runtime": {
+          "AnagramChecker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnagramCheckerConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnagramChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

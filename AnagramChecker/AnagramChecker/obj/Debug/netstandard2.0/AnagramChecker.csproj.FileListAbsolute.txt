@@ -1,0 +1,8 @@
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramChecker\bin\Debug\netstandard2.0\AnagramChecker.deps.json
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramChecker\bin\Debug\netstandard2.0\AnagramChecker.dll
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramChecker\bin\Debug\netstandard2.0\AnagramChecker.pdb
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramChecker\obj\Debug\netstandard2.0\AnagramChecker.csprojAssemblyReference.cache
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramChecker\obj\Debug\netstandard2.0\AnagramChecker.AssemblyInfoInputs.cache
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramChecker\obj\Debug\netstandard2.0\AnagramChecker.AssemblyInfo.cs
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramChecker\obj\Debug\netstandard2.0\AnagramChecker.dll
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramChecker\obj\Debug\netstandard2.0\AnagramChecker.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramChecker", "AnagramChecker\AnagramChecker.csproj", "{B4CB28DD-DCF3-40F6-9EC3-883657A72FAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramCheckerAPI", "AnagramCheckerAPI\AnagramCheckerAPI.csproj", "{1497BF1C-1E68-4489-9173-A7CBAA745344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramCheckerConsole", "AnagramCheckerConsole\AnagramCheckerConsole.csproj", "{F3BBB3FD-EA82-4350-BF5A-1390C8B87275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CB28DD-DCF3-40F6-9EC3-883657A72FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CB28DD-DCF3-40F6-9EC3-883657A72FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CB28DD-DCF3-40F6-9EC3-883657A72FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CB28DD-DCF3-40F6-9EC3-883657A72FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1497BF1C-1E68-4489-9173-A7CBAA745344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1497BF1C-1E68-4489-9173-A7CBAA745344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1497BF1C-1E68-4489-9173-A7CBAA745344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1497BF1C-1E68-4489-9173-A7CBAA745344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BBB3FD-EA82-4350-BF5A-1390C8B87275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BBB3FD-EA82-4350-BF5A-1390C8B87275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BBB3FD-EA82-4350-BF5A-1390C8B87275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BBB3FD-EA82-4350-BF5A-1390C8B87275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6131EC63-328A-4BD6-A29B-87A3F93AB4FB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramCheckerConsole.exe
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramCheckerConsole.deps.json
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramCheckerConsole.runtimeconfig.json
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramCheckerConsole.runtimeconfig.dev.json
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramCheckerConsole.dll
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramCheckerConsole.pdb
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\obj\Debug\netcoreapp3.0\AnagramCheckerConsole.csprojAssemblyReference.cache
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\obj\Debug\netcoreapp3.0\AnagramCheckerConsole.AssemblyInfoInputs.cache
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\obj\Debug\netcoreapp3.0\AnagramCheckerConsole.AssemblyInfo.cs
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\obj\Debug\netcoreapp3.0\AnagramCheckerConsole.dll
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\obj\Debug\netcoreapp3.0\AnagramCheckerConsole.pdb
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramChecker.dll
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramChecker.pdb
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\obj\Debug\netcoreapp3.0\AnagramCheckerConsole.csproj.CopyComplete
+D:\Schule\5AHIF\Programmieren\C#\HUE\anagram-checker-exercise-rauchi12\AnagramChecker\AnagramCheckerConsole\bin\Debug\netcoreapp3.0\AnagramDictionary.txt
